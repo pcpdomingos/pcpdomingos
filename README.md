@@ -1,7 +1,5 @@
-Bem vinde ! 
-
-- 🌱 Cursando bootcamp Generation
-- 😄 Pronouns: ele/dele
+- Cursando bootcamp Generation
+- Pronouns: ele/dele
 
 <div align="center">
   <a href="https://github.com/pcpdomingos">
