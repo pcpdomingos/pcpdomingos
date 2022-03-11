@@ -1,4 +1,4 @@
-# Olá! Me chamo Eduardo, seja bem vinde! 👋🏻
+# Olá! Seja bem vindo! 👋🏻
 
 
 <div align="center">
